@@ -26,4 +26,7 @@ side of the benchmarked price of oil in US
 
 Based on the stats above **Random Forest** model was chosen!
 
-Please find Few Data Trends below:
+### Few Crude Oil Data Trends
+
+![ScreenShot](https://github.com/gaganmalhotra/Predicting-Future-Oil-Prices-/blob/master/CrudeOilYearlyDist.png)
+![ScreenShot](https://github.com/gaganmalhotra/Predicting-Future-Oil-Prices-/blob/master/CrudeOilMonthDist.png)
